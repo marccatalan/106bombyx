@@ -1,0 +1,14 @@
+#!/usr/bin/python3
+##
+## EPITECH PROJECT, 2022
+## main
+## File description:
+## main for 105torus
+##
+
+import sys
+from usage import usage
+
+# def rigor(argv):
+
+usage()
